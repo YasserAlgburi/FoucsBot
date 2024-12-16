@@ -1,5 +1,7 @@
 # FoucsBot
 
+By: Yasser Algburi, Ethan Surber, Menase Yirdaw, Ian Yoon 
+
 Must start the program with live server extention. Right click on HTML page and press start with live server.
 
 Start by registering for an account then proceed to login with that account
